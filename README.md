@@ -62,7 +62,7 @@ bd-j exploit chain
 https://hackerone.com/reports/1379975
 
 
-PS4 Remote vulnerabilities in spp
+PS4 Remote vulnerabilities in spp (affects OFW 11.0 and earlier)
 https://hackerone.com/reports/2177925
 
 ## Switch
