@@ -62,6 +62,9 @@ bd-j exploit chain
 https://hackerone.com/reports/1379975
 
 
+PS4 Remote vulnerabilities in spp
+https://hackerone.com/reports/2177925
+
 ## Switch
 
 ### Collection of Switch writeups
