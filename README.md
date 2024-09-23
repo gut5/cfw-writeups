@@ -118,3 +118,6 @@ https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit
 
 PS5 IPv6 Kernel Exploit
 https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit
+
+FreeBSD 11.0+ Kernel LPE: Userspace Mutexes (umtx) Use-After-Free Race Condition
+https://accessvector.net/2024/freebsd-umtx-privesc
