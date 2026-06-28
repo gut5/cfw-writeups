@@ -86,6 +86,12 @@ https://www.hackingadventures.ca/blog/ps4-retailkit-part-1-introduction
 
 https://www.hackingadventures.ca/blog/ps4-retailkit-part-2-mdbg-investigation
 
+
+From CSSFontFace to ARW: A PlayStation Webkit Exploit Writeup
+
+https://linearfox.com/blog/cssfontface-uaf-playstation
+
+
 ## Switch
 
 ### Collection of Switch writeups
