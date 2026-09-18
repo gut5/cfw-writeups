@@ -18,7 +18,7 @@ Analysis of sys_dynlib_prepare_dlclose PS4 kernel heap overflow - CTurt and qwer
 https://cturt.github.io/dlclose-overflow.html
 
 
-Breaking down qwertyoruiopz's 4.0x userland exploit
+Breaking down qwertyoruiop's 4.0x userland exploit
 
 https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md
 
