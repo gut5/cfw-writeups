@@ -146,6 +146,9 @@ http://acez.re/ps-vita-level-1-webkitties-3/
 
 ## PS5
 
+Exploit chain for PS5 7.00 - 13.60
+
+https://github.com/ntfargo/Relapse-Exploit
 
 PS5 4.03 Kernel Exploit
 
